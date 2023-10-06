@@ -1,0 +1,31 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.Banner-wp {
+  text-align: center;
+}
+.Banner-wp p {
+  font-size: 50px;
+  margin-top: 20px;
+  color: #c9d1d9;
+  font-weight: 600;
+}
+.Banner-wp strong {
+  background: linear-gradient(to right, #f32170, #ffeb07, #2196f3, #ff00eb);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.Banner-wp button {
+  border-top: #c9d1d9 4px solid;
+  border-bottom: #c9d1d9 4px solid;
+  color: #c9d1d9;
+  background-color: #0d1018;
+  border-left: none;
+  border-right: none;
+  margin-top: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+.Banner-wp button:hover {
+  background-color: #c9d1d9;
+  color: #0d1018;
+  transition: all linear 0.3s;
+}/*# sourceMappingURL=Baner.css.map */

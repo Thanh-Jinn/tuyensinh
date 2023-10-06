@@ -1,0 +1,28 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.Header-wp {
+  color: #c9d1d9;
+  align-items: center;
+  height: 100%;
+  font-size: 14px;
+}
+.Header-wp .HeaderL {
+  align-items: center;
+}
+.Header-wp .HeaderL img {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+.Header-wp .HeaderCenter {
+  align-items: center;
+}
+.Header-wp .HeaderR button {
+  background-color: #fff;
+  color: #0d1018;
+  border-radius: 16px;
+  padding: 12px;
+  font-size: 16px;
+}
+.Header-wp .HeaderR button:hover {
+  background-color: #ccc;
+}/*# sourceMappingURL=Header.css.map */
